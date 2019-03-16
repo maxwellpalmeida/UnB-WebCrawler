@@ -8,11 +8,11 @@
    * The first one does the dirty work of naviganting through the UnB website and its departments, offers, disciplines and classes. To gather all key data required for the studant to make a good and mindful choice on his/her available options for enrollment.
    * The second keeps waiting for each department the other thread finishes and output the all collected data to an excel sheet. When it is done, it waits for the next department to finish until it is all set.
 
-### Requirements
+## Requirements
   * Microsoft Office (used to output excel)
   * Visual Studio
 
-### Built with
+## Built with
   * C#
   * ASP.NET Core
 
