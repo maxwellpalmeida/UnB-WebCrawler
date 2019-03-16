@@ -4,5 +4,5 @@ It is intended to be a helpfull tool towards you getting your UnB (Universidade 
 The crawler collects all the disciplines available for enrollment and displays all key data to an excel, where you can organize yourself to either set all your grade, or fulfill the the schedule gaps.
 
 ### Built with
-*C#
-*ASP.NET Core
+  * C#
+  * ASP.NET Core
