@@ -5,12 +5,12 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacantDisciplinesReader", "LeitorDisciplinaComVaga\VacantDisciplinesReader.csproj", "{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnBWebCrawler", "ChupaCabraUnb\UnBWebCrawler.csproj", "{A11F9358-8D4A-480C-B3C7-8B209E93A5D4}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E4D03130-151A-450D-AAE2-15A3ED5D96F9}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\packages.config = .nuget\packages.config
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnBWebCrawler", "UnBWebCrawler\UnBWebCrawler.csproj", "{A11F9358-8D4A-480C-B3C7-8B209E93A5D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,17 +32,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59276C84-F1D6-4AFC-8859-7D307FE5CAC0}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://maxwellalmeida.visualstudio.com/
-		SccProjectUniqueName0 = LeitorDisciplinaComVaga\\VacantDisciplinesReader.csproj
-		SccProjectName0 = LeitorDisciplinaComVaga
-		SccLocalPath0 = LeitorDisciplinaComVaga
-		SccProjectUniqueName1 = ChupaCabraUnb\\UnBWebCrawler.csproj
-		SccProjectName1 = ChupaCabraUnb
-		SccLocalPath1 = ChupaCabraUnb
-		SccLocalPath2 = .
 	EndGlobalSection
 EndGlobal
