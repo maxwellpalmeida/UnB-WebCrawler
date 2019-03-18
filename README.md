@@ -15,6 +15,7 @@
      <a href="UnBWebCrawler/Attachments/UnB%20Crawler%20console.png?raw=true" target="_blank"><div><img src="UnBWebCrawler/Attachments/UnB%20Crawler%20console.png" alt="Windows console" width="500px"/></div></a>
   
   2. Excel file.
+   <a href="UnBWebCrawler/Attachments/UnB%20Classes.xlsx" target="_blank">Excel file</a>
 
 ## Requirements
   * Microsoft Office (used to output excel)
