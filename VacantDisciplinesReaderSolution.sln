@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacantDisciplinesReader", "LeitorDisciplinaComVaga\VacantDisciplinesReader.csproj", "{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E4D03130-151A-450D-AAE2-15A3ED5D96F9}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\packages.config = .nuget\packages.config
@@ -12,20 +10,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E4D031
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnBWebCrawler", "UnBWebCrawler\UnBWebCrawler.csproj", "{A11F9358-8D4A-480C-B3C7-8B209E93A5D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacantDisciplinesReader", "VacantDisciplinesReader\VacantDisciplinesReader.csproj", "{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A11F9358-8D4A-480C-B3C7-8B209E93A5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A11F9358-8D4A-480C-B3C7-8B209E93A5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A11F9358-8D4A-480C-B3C7-8B209E93A5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A11F9358-8D4A-480C-B3C7-8B209E93A5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B1FAE1-5A53-4DB3-83BA-6005365EA33A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
