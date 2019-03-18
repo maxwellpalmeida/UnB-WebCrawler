@@ -12,7 +12,7 @@
  As mentioned, the application works with two parallel interfaces, a console which displays summary about the progress of the task and a excel file that is rendered at start and updated every time all information about a department is populated, that inclues all its disciplines and classes.
  
   1. Windows console
-     <a href="UnBWebCrawler\AttachmentsUnB Crawler console.png?raw=true" target="_blank"><div><img src="UnBWebCrawler\AttachmentsUnB Crawler console.png" alt="Windows console" width="500px"/></div></a>
+     <a href="UnBWebCrawler/Attachments/UnB%20Crawler%20console.png?raw=true" target="_blank"><div><img src="UnBWebCrawler/Attachments/UnB%20Crawler%20console.png" alt="Windows console" width="500px"/></div></a>
   
   2. Excel file.
 
