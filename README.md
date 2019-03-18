@@ -9,7 +9,12 @@
    * The second keeps waiting for each department the other thread finishes and output the all collected data to an excel sheet. When it is done, it waits for the next department to finish until it is all set.
 
 ## Examples
+ As mentioned, the application works with two parallel interfaces, a console which displays summary about the progress of the task and a excel file that is rendered at start and updated every time all information about a department is populated, that inclues all its disciplines and classes.
  
+  1. Windows console
+     <a href="UnBWebCrawler\AttachmentsUnB Crawler console.png?raw=true" target="_blank"><div><img src="UnBWebCrawler\AttachmentsUnB Crawler console.png" alt="Windows console" width="500px"/></div></a>
+  
+  2. Excel file.
 
 ## Requirements
   * Microsoft Office (used to output excel)
