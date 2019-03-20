@@ -24,5 +24,8 @@
   * C#
   * ASP.NET Core
 
+## License
+  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 ¹ Universidade de Brasília, Brasil
